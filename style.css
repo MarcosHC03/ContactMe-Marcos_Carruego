@@ -109,37 +109,44 @@ body {
 #w:hover {
     background: #6c0;
     color: #fff;
+    transition: all .5s;
 }
 
 #i:hover {
     background: linear-gradient(15deg, yellow, red,  purple, blue);
     color: #fff;
+    transition: all .5s;
 }
 
 #f:hover {
     background: #3b5998;
     color: #fff;
+    transition: all .5s;
 }
 
 #t:hover {
     background: #00acee;
     color: #fff;
+    transition: all .5s;
 }
 
 /* Professional */
 #p:hover {
     background: #666;
     color: #fff;
+    transition: all .5s;
 }
 
 #g:hover {
     background: #161b22;
     color: #fff;
+    transition: all .5s;
 }
 
 #l:hover {
     background: #0e76a8;
     color: #fff;
+    transition: all .5s;
 }
 
 /* Footer */
