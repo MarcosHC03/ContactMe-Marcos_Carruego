@@ -42,7 +42,7 @@ body {
 
 /* Logo */
 .logoImg {
-    background: url(Logo.png) no-repeat center/cover;
+    background: url(Logo.jpg) no-repeat center/cover;
     border-radius: 50%;
     margin: auto;
     width: 20vh;
