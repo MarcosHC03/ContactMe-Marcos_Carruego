@@ -88,10 +88,10 @@ body {
 .personal a,
 .professional a {
     background: #fff;
-    width: 35vw;
-    border-radius: 10px;
-    margin: 10vw auto;
-    padding: 20px;
+    width: 25vw;
+    border-radius: 15px;
+    margin: 20px auto;
+    padding: 10px;
     text-decoration: none;
     justify-content: center;
     color: #000;
@@ -103,7 +103,6 @@ body {
     display: flex;
     align-items: center;
     padding-right: 5px;
-    padding: 10px;
 }
 
 /* Personal */
